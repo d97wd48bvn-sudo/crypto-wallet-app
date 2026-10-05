@@ -1,4 +1,4 @@
-# Crypto Wallet App
+    # Crypto Wallet App
 
 A real wallet dashboard built with React and ethers.js.
 
